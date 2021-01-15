@@ -1,0 +1,9 @@
+[book]
+authors = ["rfm"]
+language = "en"
+multilingual = false
+src = "src"
+title = "What The F*ck is..."
+
+[build]
+build-dir = "docs"
