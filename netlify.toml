@@ -2,4 +2,3 @@
 
 base = "./"
 publish = "docs/"
-command = "cargo install mdbook && mdbook build"
