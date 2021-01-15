@@ -2,3 +2,4 @@
 
 base = "./"
 publish = "docs/"
+command = "rustup install stable && cargo install mdbook && "
